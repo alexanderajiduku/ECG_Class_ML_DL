@@ -1,4 +1,4 @@
-# Group_7_Deep_Learning_Project
+# Deep_ECG_Classification
 ECG Classification with AI 
 University West 
 Department of Engineering Sciences 2023
